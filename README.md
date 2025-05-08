@@ -30,7 +30,47 @@ Together, these elements enable machines to **learn**, **predict**, and **assist
 - 📁 Datasets used in real-world ML problems  
 - 🧪 Notebooks showcasing practical ML models  
 - 📈 Visualization techniques to understand data  
-- 🧰 Tools and methods for building predictive systems  
+- 🧰 Tools and methods for building predictive systems
+
+- ## 🗂️ Notebooks Overview
+
+Explore a variety of machine learning concepts through the following Jupyter notebooks:
+
+- `AprendizajeNoSupervisado.ipynb`  
+  ➤ Introduction to **unsupervised learning**, including clustering methods like K-Means and hierarchical clustering.
+
+- `Arbol_Decision_y_BosqueAleatorio.ipynb`  
+  ➤ Implementation of **Decision Trees** and **Random Forests** for classification and feature importance analysis.
+
+- `Clases_No_Balanceadas.ipynb`  
+  ➤ Techniques to handle **imbalanced datasets**, such as resampling, class weighting, and performance evaluation.
+
+- `GermanCredit_Prediction.ipynb`  
+  ➤ A case study using the **German Credit Dataset** for binary classification, model selection, and interpretation.
+
+- `Learning_Curves.ipynb`  
+  ➤ Visualizing **learning curves** to understand underfitting, overfitting, and model generalization.
+
+- `Logistic_Regression.ipynb`  
+  ➤ Implementation and theory behind **Logistic Regression** for binary classification problems.
+
+- `Maquina_de_Vector_Soporte_SVM.ipynb`  
+  ➤ Explore **Support Vector Machines (SVMs)** and how they create decision boundaries for classification tasks.
+
+- `RLM_.ipynb`  
+  ➤ Regularized Linear Models including **Ridge**, **Lasso**, and **ElasticNet** for regression with multicollinearity.
+
+- `ROC_y_PR_.ipynb`  
+  ➤ Evaluation metrics including **ROC curves** and **Precision-Recall curves** for classification performance.
+
+- `SVD_Recomendation Systems.ipynb`  
+  ➤ Build a **recommendation system** using **Singular Value Decomposition (SVD)** for collaborative filtering.
+
+- `Serie_de_Tiempo_Arima_Prophet_LSTM.ipynb`  
+  ➤ Forecasting with **ARIMA**, **Facebook Prophet**, and **LSTM networks** for time series data.
+
+- `Varianza_Sesgo_y_CurvasDeAprendizaje.ipynb`  
+  ➤ Understand the **bias-variance tradeoff** and how learning curves help evaluate model complexity.
 
 > ✨ _Turning data into insight, and insight into action._
 
